@@ -13,6 +13,8 @@
     "extends": "./node_modules/standard/eslintrc.json"
   },
   "dependencies": {
+    "@mdi/js": "^7.4.47",
+    "@mdi/react": "^1.6.1",
     "@typescript-eslint/eslint-plugin": "^8.2.0",
     "@typescript-eslint/parser": "^8.2.0",
     "react": "^18.3.1",
